@@ -1,0 +1,8 @@
+- [x] Update general styles (reset, fonts, transitions)
+- [x] Enhance login-bg and login-card styles
+- [ ] Improve input and button styles with hover effects
+- [ ] Fix logo sizing
+- [ ] Update home-bg and home-container
+- [ ] Enhance course-list and course-card with animations
+- [ ] Add responsiveness with media queries
+- [ ] Remove duplicate styles
